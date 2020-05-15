@@ -1,18 +1,24 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 96,
+    "build": 98,
     "major": 4,
     "minor": 0,
     "revision": 0
   },
   "properties": {
+    "adMobAppId": "",
+    "adaptGameResolutionAtRuntime": false,
     "folderProject": false,
     "linuxExecutableFilename": "",
     "macExecutableFilename": "",
+    "orientation": "default",
     "packageName": "gametemplates.itch.io",
-    "projectFile": "C:\\Users\\szoszo\\Desktop\\Projects\\gametemplates\\gdevelop5\\z-depth\\game.json",
+    "projectFile": "C:\\Users\\Krzysztof\\Desktop\\Repos\\Hierarchy Example\\game.json",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "",
     "useExternalSourceFiles": false,
+    "version": "1.0.0",
     "winExecutableFilename": "",
     "winExecutableIconFile": "",
     "name": "Z-Depth",
@@ -23,6 +29,10 @@
     "maxFPS": 60,
     "minFPS": 10,
     "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": true
+    },
     "extensions": [
       {
         "name": "BuiltinObject"
@@ -95,6 +105,7 @@
         "alwaysLoaded": false,
         "file": "assets/player/p1_front.png",
         "kind": "image",
+        "metadata": "",
         "name": "p1_front.png",
         "smoothed": true,
         "userAdded": false
@@ -103,6 +114,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile000.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile000.png",
         "smoothed": true,
         "userAdded": false
@@ -111,6 +123,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile001.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile001.png",
         "smoothed": true,
         "userAdded": false
@@ -119,6 +132,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile002.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile002.png",
         "smoothed": true,
         "userAdded": true
@@ -127,6 +141,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile018.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile018.png",
         "smoothed": true,
         "userAdded": true
@@ -135,6 +150,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile019.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile019.png",
         "smoothed": true,
         "userAdded": true
@@ -143,6 +159,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile020.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile020.png",
         "smoothed": true,
         "userAdded": false
@@ -151,6 +168,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile036.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile036.png",
         "smoothed": true,
         "userAdded": true
@@ -159,6 +177,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile037.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile037.png",
         "smoothed": true,
         "userAdded": true
@@ -167,6 +186,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile038.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile038.png",
         "smoothed": true,
         "userAdded": false
@@ -175,6 +195,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile039.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile039.png",
         "smoothed": true,
         "userAdded": true
@@ -183,6 +204,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiles/rpgTile040.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile040.png",
         "smoothed": true,
         "userAdded": false
@@ -191,6 +213,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile175.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile175.png",
         "smoothed": true,
         "userAdded": false
@@ -199,6 +222,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile176.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile176.png",
         "smoothed": true,
         "userAdded": true
@@ -207,6 +231,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile177.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile177.png",
         "smoothed": true,
         "userAdded": true
@@ -215,6 +240,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile179.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile179.png",
         "smoothed": true,
         "userAdded": true
@@ -223,6 +249,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile178.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile178.png",
         "smoothed": true,
         "userAdded": true
@@ -231,6 +258,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile180.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile180.png",
         "smoothed": true,
         "userAdded": true
@@ -239,6 +267,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile195.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile195.png",
         "smoothed": true,
         "userAdded": true
@@ -247,6 +276,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile196.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile196.png",
         "smoothed": true,
         "userAdded": true
@@ -255,6 +285,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile197.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile197.png",
         "smoothed": true,
         "userAdded": true
@@ -263,6 +294,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile198.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile198.png",
         "smoothed": true,
         "userAdded": false
@@ -271,6 +303,7 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile199.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile199.png",
         "smoothed": true,
         "userAdded": false
@@ -279,7 +312,26 @@
         "alwaysLoaded": false,
         "file": "assets/trees/rpgTile200.png",
         "kind": "image",
+        "metadata": "",
         "name": "rpgTile200.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/enemy/enemy_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\enemy\\enemy_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/enemy/enemy_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\enemy\\enemy_2.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -3343,11 +3395,120 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "enemy_1",
+          "width": 0,
+          "x": 497,
+          "y": 409,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 49.8804,
+          "layer": "",
+          "locked": false,
+          "name": "enemy_2",
+          "width": 37.4674,
+          "x": 167,
+          "y": 139,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
         {
+          "name": "enemy_1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\enemy\\enemy_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "enemy_2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\enemy\\enemy_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "kenney",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3386,6 +3547,7 @@
         },
         {
           "name": "ground",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3714,6 +3876,7 @@
         },
         {
           "name": "tree_top",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3897,6 +4060,7 @@
         },
         {
           "name": "tree_bottom",
+          "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -4083,11 +4247,31 @@
           "italic": false,
           "name": "message",
           "smoothed": true,
+          "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "behaviors": [],
           "string": "Move the character by pressing the arrow keys or click with the mouse ",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Text",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -4587,6 +4771,7 @@
     }
   ],
   "externalEvents": [],
+  "eventsFunctionsExtensions": [],
   "externalLayouts": [],
   "externalSourceFiles": []
 }
